@@ -1,2 +1,11 @@
 # Verkefni-5
-hugmyndavina
+-Hugmyndavinna og efnisöflun 	
+
+
+
+-Efnisyfirlit og tengirit 	
+
+
+
+
+-Stílbragð - Style tyle 
