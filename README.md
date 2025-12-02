@@ -11,13 +11,13 @@ Vefurinn verður hannaður sem **landing page** fyrir viðburðinn, með miðaka
 
 ## **2. Texti og myndir sem ég ætla að nota**
 
-* Myndir af Kanye (copyright-free alternatives: „Kanye West look-alike concert“, „silhouette rapper on stage“, „Yeezy aesthetic images“).
+* Myndir af Kanye ("Kanye West look-alike concert“, "silhouette rapper on stage“, "Yeezy aesthetic images“).
 * Bakgrunnslitir: svart, hvítur, gull.
 * Textadæmi:
 
-  * „YE LIVE EXPERIENCE 2025 – A Night of Vision & Sound“
-  * „Upplifðu Kanye í áður óþekktri tónlistar- og sjónrænnri sýningu.“
-  * „Takmarkaðir miðar – tryggðu þér sæti núna.“
+  * "YE LIVE EXPERIENCE 2025 – A Night of Vision & Sound“
+  * ""Upplifðu Kanye í áður óþekktri tónlistar- og sjónrænnri sýningu.“
+  * "Takmarkaðir miðar – tryggðu þér sæti núna.“
 
 ## **3. Upplýsingar sem eiga að koma fram á vefnum**
 
